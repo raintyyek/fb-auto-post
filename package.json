@@ -1,0 +1,27 @@
+{
+  "name": "raintyyek/fb-auto-post",
+  "version": "1.0.0",
+  "description": "Post or Schedule Random Posts for Facebook Page",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raintyyek/fb-auto-post.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raintyyek/fb-auto-post/issues"
+  },
+  "homepage": "https://github.com/raintyyek/fb-auto-post#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0",
+    "path": "^0.12.7",
+    "querystring": "^0.2.1"
+  }
+}
