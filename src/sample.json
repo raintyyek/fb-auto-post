@@ -1,0 +1,16 @@
+[
+    {
+        "message": "Hi everyone!",
+        "type": "feed"
+    },
+    {
+        "message": "Here's my github profile!",
+        "type": "link",
+        "link": "https://github.com/raintyyek"
+    },
+    {
+        "message": "This is my github profile picture!",
+        "type": "photo",
+        "photo": "https://avatars.githubusercontent.com/u/93080136?v=4"
+    }
+]
