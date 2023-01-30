@@ -28,7 +28,7 @@ This library can be used to publish post and schedule posts to publish randomly 
 AutoPost.initialize({
     app_id: "XXXXXXXXXXX", // (Required) Generate from From Your Facebook Developer App
     app_secret: "XXXXXXXXXXX", // (Required) Generate from From Your Facebook Developer App
-    user_access_token: "XXXXXXXXXXX", // (Required) Generate from Facebook Developer Platform Tool, Permissions Needed: public_profile, pages_manage_posts, pages_show_list
+    user_access_token: "XXXXXXXXXXX", // (Required) Generate from Facebook Developer Platform Tool, Permissions Needed: public_profile, pages_manage_posts, pages_show_list, pages_read_engagement
     fb_api_url: 'graph.facebook.com', // (Optional) Default: graph.facebook.com
     datasource_src: 'data/autopost-data.json', // (Optional) Default: data/autopost-data.json
 }).then((obj) => {
