@@ -1,6 +1,6 @@
 {
   "name": "fb-auto-post",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "Post or Schedule Random Posts for Facebook Page",
   "main": "src/index.js",
   "keywords": [
